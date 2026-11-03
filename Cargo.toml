@@ -1,0 +1,9 @@
+[package]
+name = "arch-shader-genus-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-shader-genus-kernel component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-shader-genus-kernel"
+
+[dependencies]
